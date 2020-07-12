@@ -71,7 +71,7 @@ function showHoroscope() {
     document.getElementById("sign-img").src =
       "https://img.icons8.com/carbon-copy/100/000000/gemini.png";
     document.getElementById("text").innerHTML =
-      "Lucky you! This birth sign is the only venue that portrays multiple personalities as highly desirable and socially acceptable. You are blessed with the Yin and the Yang of the Universe, if only you can bring them into balance more often. At least one can never accuse you of being boring or unchanging.";
+      "Lucky you! This birth sign is the only venue that portrays multiple personalities as highly desirable and socially acceptable. You are blessed with the Yin and the Yang of the Universe, if only you can bring them into balance more often.";
   } else if (
     monthInput == "july" ||
     monthInput == "July" ||

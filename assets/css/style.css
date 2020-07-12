@@ -25,7 +25,7 @@ form h2 {
 }
 
 form h1 {
-    font-size: 2em;
+  font-size: 2em;
 }
 
 article {
@@ -45,23 +45,21 @@ input {
 }
 
 .btn {
-  display: block;
-  width: 20%;
-  padding: 10px 30px;
+  padding: 10px 20px;
   font-family: "Raleway", sans-serif;
   letter-spacing: 2px;
   border-radius: 5px;
   font-size: 1em;
   border: none;
   text-transform: uppercase;
-  color: black;
+  color: rgb(49, 49, 49);
   transition: 0.5s;
- 
-   background: rgb(247, 109, 132);
+
+  background: rgb(247, 109, 132);
 }
 .btn:hover {
-    background: black;
-    color: rgb(247, 109, 132);
+  background: rgb(49, 49, 49);
+  color: rgb(247, 109, 132);
 }
 
 .btn:focus {
@@ -69,8 +67,9 @@ input {
 }
 
 #sign-img {
-    width: 50px;;
+  width: 50px;
 }
+
 p {
   width: 50%;
   margin: 0 auto;
@@ -80,20 +79,19 @@ p {
   color: rgb(107, 107, 107);
 }
 #warning {
-    color: rgb(107, 107, 107);
+  color: rgb(107, 107, 107);
 }
 
 ::placeholder {
-    color: gray;
-    font-family: "Raleway", sans-serif;
-    font-size: 0.9em;
+  color: gray;
+  font-family: "Raleway", sans-serif;
+  font-size: 0.9em;
 }
 
 footer a {
-font-size: 0.7em;
-text-decoration: none;
-color: grey;
-display: block;
-font-family: "Raleway", sans-serif;
-
+  font-size: 0.7em;
+  text-decoration: none;
+  color: grey;
+  display: block;
+  font-family: "Raleway", sans-serif;
 }
